@@ -1,6 +1,6 @@
 {
   "name": "findmy.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Typescript library for Apple's Find My network without requiring 2FA login",
   "homepage": "https://github.com/CaramelFur/findmy.js",
   "keywords": [
